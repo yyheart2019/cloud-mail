@@ -7,12 +7,12 @@ keep_vars = true
 enabled = true
 
 [[d1_databases]]
-binding = "DB"
+binding = "db"
 database_name = "0417"
 database_id = "c738afd3-5a1f-461b-aa98-d1fd74936213"
 
 [[kv_namespaces]]
-binding = "KV"
+binding = "kv"
 id = "86c0fef133d24ac99342af571194860e"
 
 [assets]
